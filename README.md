@@ -5,4 +5,4 @@ He creado una pequeña aplicación mientras practicaba JavaScript que podría se
 
 Es posible reiniciar la cuenta :).
 
-Here´s the link: https://ornate-yeot-58780f.netlify.app/
+Link here: https://ornate-yeot-58780f.netlify.app/
